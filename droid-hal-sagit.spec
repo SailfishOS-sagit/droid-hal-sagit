@@ -10,4 +10,15 @@
 #define WANT_ADRENO_QUIRKS 1 \
 %{nil}
 
+%define straggler_files \
+/bt_firmware\
+/bugreports\
+/d\
+/dsp\
+/firmware\
+/persist\
+/product\
+/sdcard\
+%{nil}
+
 %include rpm/dhd/droid-hal-device.inc
