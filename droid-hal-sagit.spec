@@ -21,4 +21,6 @@
 /sdcard\
 %{nil}
 
+%define makefstab_skip_entries /dev/stune /dev/cpuset /sys/fs/pstore /dev/cpuctl
+
 %include rpm/dhd/droid-hal-device.inc
