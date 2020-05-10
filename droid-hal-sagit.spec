@@ -11,13 +11,9 @@
 %{nil}
 
 %define straggler_files \
-/bt_firmware\
 /bugreports\
+/cache\
 /d\
-/dsp\
-/firmware\
-/persist\
-/product\
 /sdcard\
 %{nil}
 
