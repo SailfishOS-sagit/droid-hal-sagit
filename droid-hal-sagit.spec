@@ -14,10 +14,9 @@
 /bt_firmware\
 /bugreports\
 /d\
-/dsp\
-/firmware\
 /persist\
 /product\
+/product_services\
 /sdcard\
 %{nil}
 
